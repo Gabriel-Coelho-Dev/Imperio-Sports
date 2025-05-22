@@ -1,2 +1,2 @@
 # Imperio-Sports
-GIT Versionamento E-Commerc Imperio Sports 2025
+GIT Versionamento E-Commerce Imperio Sports 2025
